@@ -2,3 +2,5 @@ panel==0.8.0
 numpy==1.13.3
 imagen
 holoviews
+ipykernel
+matplotlib

@@ -1,6 +1,8 @@
 panel==0.8.0
-numpy==1.13.3
+numpy==1.16.0
 imagen
 holoviews
 ipykernel
 matplotlib
+keras
+tensorflow

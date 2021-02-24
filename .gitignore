@@ -1,3 +1,5 @@
 .vscode
 .DS_Store
 .python-version
+illusion_image/blur/uniform
+illusion_image/blur/blurred
